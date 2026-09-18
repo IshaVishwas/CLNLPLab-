@@ -1,7 +1,7 @@
 # Experiment 5: Subword Tokenization and POS Tagging
 
-**Name:** Aantriksh Sood  
-**SAP ID:** 500124259  
+**Name:** Isha  
+**SAP ID:** 500119683  
 
 ## Objective
 To implement advanced subword-level tokenization utilizing BPE and SentencePiece architectures, and to perform Part-of-Speech (POS) tagging for linguistic syntax analysis using NLP toolkits.
