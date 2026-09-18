@@ -1,7 +1,7 @@
 # Experiment 4: Term Frequency and Named Entity Recognition
 
-**Name:** Aantriksh Sood  
-**SAP ID:** 500124259  
+**Name:** Isha
+**SAP ID:** 500119683 
 
 ## Objective
 To implement and analyze Term-Frequency (TF), Inverse Document Frequency (IDF), and Named Entity Recognition (NER) algorithms on textual data, exploring both toolkit-based and foundational from-scratch approaches.
